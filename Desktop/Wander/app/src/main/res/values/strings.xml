@@ -7,4 +7,5 @@
     <string name="terrain_map">Terrain Map</string>
     <string name="dropped_pin">dropped_pin</string>
     <string name="poi">poi</string>
+    <string name="poi2">poi</string>
 </resources>
